@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\keqche\\.nuget\\packages\\": {}
+    "C:\\Users\\yinche\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Training\\WareHouse-csharp\\WareHouse-csharp.csproj",
+      "projectUniqueName": "C:\\training\\warehouse-csharp\\WareHouse-csharp.csproj",
       "projectName": "WareHouse-csharp",
-      "projectPath": "C:\\Training\\WareHouse-csharp\\WareHouse-csharp.csproj",
-      "packagesPath": "C:\\Users\\keqche\\.nuget\\packages\\",
-      "outputPath": "C:\\Training\\WareHouse-csharp\\obj\\",
+      "projectPath": "C:\\training\\warehouse-csharp\\WareHouse-csharp.csproj",
+      "packagesPath": "C:\\Users\\yinche\\.nuget\\packages\\",
+      "outputPath": "C:\\training\\warehouse-csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\keqche\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\yinche\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
