@@ -1,0 +1,15 @@
+C:\Training\WareHouse-csharp\bin\Debug\net6.0\WareHouse-csharp.exe
+C:\Training\WareHouse-csharp\bin\Debug\net6.0\WareHouse-csharp.deps.json
+C:\Training\WareHouse-csharp\bin\Debug\net6.0\WareHouse-csharp.runtimeconfig.json
+C:\Training\WareHouse-csharp\bin\Debug\net6.0\WareHouse-csharp.dll
+C:\Training\WareHouse-csharp\bin\Debug\net6.0\WareHouse-csharp.pdb
+C:\Training\WareHouse-csharp\obj\Debug\net6.0\WareHouse-csharp.csproj.AssemblyReference.cache
+C:\Training\WareHouse-csharp\obj\Debug\net6.0\WareHouse-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\WareHouse-csharp\obj\Debug\net6.0\WareHouse-csharp.AssemblyInfoInputs.cache
+C:\Training\WareHouse-csharp\obj\Debug\net6.0\WareHouse-csharp.AssemblyInfo.cs
+C:\Training\WareHouse-csharp\obj\Debug\net6.0\WareHouse-csharp.csproj.CoreCompileInputs.cache
+C:\Training\WareHouse-csharp\obj\Debug\net6.0\WareHouse-csharp.dll
+C:\Training\WareHouse-csharp\obj\Debug\net6.0\refint\WareHouse-csharp.dll
+C:\Training\WareHouse-csharp\obj\Debug\net6.0\WareHouse-csharp.pdb
+C:\Training\WareHouse-csharp\obj\Debug\net6.0\WareHouse-csharp.genruntimeconfig.cache
+C:\Training\WareHouse-csharp\obj\Debug\net6.0\ref\WareHouse-csharp.dll
