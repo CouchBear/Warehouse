@@ -11,7 +11,7 @@ class Shop {
     {
         if (quantity <= 0)
         {
-            throw new ArgumentOutOfRangeException($"quantity {quantity} Sorry this quantity is invalid.");
+            throw new ArgumentOutOfRangeException($"Sorry, this {quantity} is invalid.");
         }
 
         foreach(Stock stock in Stocks){
@@ -24,6 +24,4 @@ class Shop {
         Stocks.Add(new Stock(item,quantity));
     }
 
-    
-        
     }
